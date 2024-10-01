@@ -84,7 +84,7 @@ Ahora estamos pendiente de si será éste el primer vehículo de los italianos e
 ### ⚡ **CYBERTRUCK**
 <img src="https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Cybertruck-Second-Hero-Desktop.jpg" alt="Coche Deportivo" height="200"/>
 
-Transporte todo lo que necesite con una carga útil de 1134 kg y una capacidad de remolque de 4990 kg, el equivalente a un elefante africano medio. La plataforma de composite superresistente no necesita una cubierta y es lo suficientemente grande para materiales de construcción de 4’x8’.
+El Tesla Cybertruck es la camioneta eléctrica de Tesla, un vehículo revelado recientemente que entrará en producción a finales de 2021 y del que ya se han reportado más de 250.000 reservas desde que fuera oficialmente presentado.
 ---
 
 ## 📞 **Contáctanos**
