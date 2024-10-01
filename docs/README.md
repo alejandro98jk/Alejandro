@@ -82,8 +82,9 @@ El MC20 es un superdeportivo muy especial por su equilibrio general y la satisfa
 Ahora estamos pendiente de si será éste el primer vehículo de los italianos en venderse como coche híbrido ya que, según el propio fabricante todos sus futuros modelos tendrán una variante electrificada, no, no te tires de los pelos, que los próximos hay Lamborghini híbridos les da un plus de potencia y un balón de oxígeno a los motores más bestias del mercado.
 
 ### ⚡ **CYBERTRUCK**
-<img src="https://www.tesla.com/es_es/cybertruck" alt="Coche Deportivo" height="200"/>
+<img src="https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Cybertruck-Second-Hero-Desktop.jpg" alt="Coche Deportivo" height="200"/>
 
+Transporte todo lo que necesite con una carga útil de 1134 kg y una capacidad de remolque de 4990 kg, el equivalente a un elefante africano medio. La plataforma de composite superresistente no necesita una cubierta y es lo suficientemente grande para materiales de construcción de 4’x8’.
 ---
 
 ## 📞 **Contáctanos**
