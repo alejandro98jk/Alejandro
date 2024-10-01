@@ -66,24 +66,6 @@ Los coches modernos están cada vez más conectados, permitiendo actualizaciones
 
 ---
 
-## 📷 **Galería Visual**
-
-Echa un vistazo a algunos de los coches más impresionantes del mercado:
-
-### 🏎️ **Coche Deportivo**
-![Coche Deportivo](https://example.com/deportivo.jpg)  
-*Coche deportivo con aerodinámica avanzada.*
-
-### 🚙 **SUV de Lujo**
-![SUV de Lujo](https://example.com/suv.jpg)  
-*Un SUV robusto, ideal para aventuras todo terreno.*
-
-### ⚡ **Coche Eléctrico Futurista**
-![Coche Eléctrico](https://example.com/electrico.jpg)  
-*Vehículo eléctrico de última generación.*
-
----
-
 ## 📞 **Contáctanos**
 
 Si tienes alguna duda, sugerencia o quieres más información sobre los coches, no dudes en comunicarte con nosotros. ¡Estaremos encantados de ayudarte!
