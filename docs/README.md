@@ -71,8 +71,7 @@ Los coches modernos están cada vez más conectados, permitiendo actualizaciones
 Echa un vistazo a algunos de los coches más impresionantes del mercado:
 
 ### 🏎️ **Coche Deportivo**
-![Coche Deportivo](https://carwow-es.imgix.net/prismic/80dfb8ba-47e8-41a2-9eb4-1b0331160400_porsche%2B911.jpg?auto=format&cs=tinysrgb&fit=clip&ixlib=rb-1.1.0&q=60&w=750)  
-*Coche deportivo con aerodinámica avanzada.*
+<img src="https://cdn.imagin.studio/getImage?angle=22&billingTag=web&customer=carwow&make=maserati&modelFamily=mc20&modelVariant=coupe&modelYear=2025&paintDescription=grigio-incognito-solido&paintId=q5b2&tailoring=carwow&width=800&zoomLevel=0&zoomType=fullscreen" alt="Coche Deportivo" height="200"/>
 
 ### 🚙 **SUV de Lujo**
 ![SUV de Lujo](https://example.com/suv.jpg)  
