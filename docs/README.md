@@ -76,7 +76,7 @@ Los coches modernos están cada vez más conectados, permitiendo actualizaciones
 
 Echa un vistazo a algunos de los coches más impresionantes del mercado:
 
-### 🏎️ **Coche Deportivo**
+### 🏎️ **Maserati MC20 El MC20**
 <img src="https://cdn.drivek.com/configurator-icon/cars/es/400/MASERATI/MC20/39896_COUPE-2-DOORS/maserati-mc20-2020-side-view.png" alt="Coche Deportivo" height="200"/>
 
 Maserati MC20
@@ -88,7 +88,7 @@ El MC20 es un superdeportivo muy especial por su equilibrio general y la satisfa
 Ahora estamos pendiente de si será éste el primer vehículo de los italianos en venderse como coche híbrido ya que, según el propio fabricante todos sus futuros modelos tendrán una variante electrificada, no, no te tires de los pelos, que los próximos hay Lamborghini híbridos les da un plus de potencia y un balón de oxígeno a los motores más bestias del mercado.
 
 ### ⚡ **CYBERTRUCK**
-<img src="https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Cybertruck-Second-Hero-Desktop.jpg" alt="Coche Deportivo" height="200"/>
+<img src="https://www.dubicars.com/images/f958ce/r_960x540/generations/generation_659e420360150_360_f_676973265_yx6kdssd6cm0fkj9tjqoh9uajjcel0xv.png?6" alt="Coche Deportivo" height="200"/>
 
 El Tesla Cybertruck es la camioneta eléctrica de Tesla, un vehículo revelado recientemente que entrará en producción a finales de 2021 y del que ya se han reportado más de 250.000 reservas desde que fuera oficialmente presentado.
 
