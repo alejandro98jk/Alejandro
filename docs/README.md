@@ -76,13 +76,13 @@ Echa un vistazo a algunos de los coches más impresionantes del mercado:
 Maserati MC20
 El MC20 es un superdeportivo muy especial por su equilibrio general y la satisfacción que produce a la hora de conducirlo en cualquier escenario. Esto es gracias a la rigidez y ligereza de su chasis de carbono, su elaborada puesta a punto y tacto de sus mandos, a que su compacto motor V6 de 630 CV ofrece la cifra correcta de caballos para carretera abierta y a una limpieza de líneas únicas en su segmento. Destaca por la confianza que transmite para buscar sus límites de agarre.
 
-### 🚙 **SUV de Lujo**
-![SUV de Lujo](https://example.com/suv.jpg)  
-*Un SUV robusto, ideal para aventuras todo terreno.*
+### 🚙 **Lamborghini Urus**
+<img src="https://cdn.topgear.es/sites/navi.axelspringer.es/public/media/image/2018/04/cinco-suv-lujo_0.jpg?tf=640x" alt="Coche Deportivo" height="200"/>
 
-### ⚡ **Coche Eléctrico Futurista**
-![Coche Eléctrico](https://example.com/electrico.jpg)  
-*Vehículo eléctrico de última generación.*
+Ahora estamos pendiente de si será éste el primer vehículo de los italianos en venderse como coche híbrido ya que, según el propio fabricante todos sus futuros modelos tendrán una variante electrificada, no, no te tires de los pelos, que los próximos hay Lamborghini híbridos les da un plus de potencia y un balón de oxígeno a los motores más bestias del mercado.
+
+### ⚡ **CYBERTRUCK**
+<img src="https://www.tesla.com/es_es/cybertruck" alt="Coche Deportivo" height="200"/>
 
 ---
 
