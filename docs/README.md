@@ -66,18 +66,6 @@ Los coches modernos están cada vez más conectados, permitiendo actualizaciones
 
 ---
 
-## 📞 **Contáctanos**
-
-Si tienes alguna duda, sugerencia o quieres más información sobre los coches, no dudes en comunicarte con nosotros. ¡Estaremos encantados de ayudarte!
-
-- ✉️ **Correo Electrónico:** [info@coches.com](mailto:info@coches.com)
-- 📞 **Teléfono:** +34 123 456 789
-- 🌐 **Redes Sociales:**
-  - [Instagram](https://instagram.com) – Síguenos para ver las últimas novedades automotrices.
-  - [Twitter](https://twitter.com) – Únete a la conversación con nosotros.
-
----
-
 ## 🏁 **Gracias por Visitarnos**
 
 Esperamos que hayas disfrutado explorando nuestra página dedicada al mundo de los coches. ¡Vuelve pronto para más actualizaciones y novedades sobre tu pasión automovilística!
