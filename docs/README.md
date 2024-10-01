@@ -1,3 +1,9 @@
+## Enlace 
+
+* [enlace readme de lnd](lnd/README.md)
+* [enlace a pagina](lnd/pagina.md)
+
+
 <h1 style="text-align: center;">El Mundo Automovilístico</h1>
 
 # 🚗✨ Bienvenido al Fascinante Mundo de los Coches
@@ -103,8 +109,3 @@ Si tienes alguna duda, sugerencia o quieres más información sobre los coches, 
 ## 🏁 **Gracias por Visitarnos**
 
 Esperamos que hayas disfrutado explorando nuestra página dedicada al mundo de los coches. ¡Vuelve pronto para más actualizaciones y novedades sobre tu pasión automovilística!
-
-## Enlace 
-
-* [enlace readme de lnd](lnd/README.md)
-* [enlace a pagina](lnd/pagina.md)
