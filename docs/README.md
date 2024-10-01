@@ -1,5 +1,4 @@
-# \begin{center}
-ESTA ES MI PAGINA WEB
+## ESTA ES MI PAGINA WEB
 
 ## Enlace 
 
