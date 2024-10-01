@@ -85,6 +85,7 @@ Ahora estamos pendiente de si será éste el primer vehículo de los italianos e
 <img src="https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Cybertruck-Second-Hero-Desktop.jpg" alt="Coche Deportivo" height="200"/>
 
 El Tesla Cybertruck es la camioneta eléctrica de Tesla, un vehículo revelado recientemente que entrará en producción a finales de 2021 y del que ya se han reportado más de 250.000 reservas desde que fuera oficialmente presentado.
+
 ---
 
 ## 📞 **Contáctanos**
