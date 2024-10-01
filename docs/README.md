@@ -73,6 +73,9 @@ Echa un vistazo a algunos de los coches más impresionantes del mercado:
 ### 🏎️ **Coche Deportivo**
 <img src="https://cdn.imagin.studio/getImage?angle=22&billingTag=web&customer=carwow&make=maserati&modelFamily=mc20&modelVariant=coupe&modelYear=2025&paintDescription=grigio-incognito-solido&paintId=q5b2&tailoring=carwow&width=800&zoomLevel=0&zoomType=fullscreen" alt="Coche Deportivo" height="200"/>
 
+Maserati MC20
+El MC20 es un superdeportivo muy especial por su equilibrio general y la satisfacción que produce a la hora de conducirlo en cualquier escenario. Esto es gracias a la rigidez y ligereza de su chasis de carbono, su elaborada puesta a punto y tacto de sus mandos, a que su compacto motor V6 de 630 CV ofrece la cifra correcta de caballos para carretera abierta y a una limpieza de líneas únicas en su segmento. Destaca por la confianza que transmite para buscar sus límites de agarre.
+
 ### 🚙 **SUV de Lujo**
 ![SUV de Lujo](https://example.com/suv.jpg)  
 *Un SUV robusto, ideal para aventuras todo terreno.*
