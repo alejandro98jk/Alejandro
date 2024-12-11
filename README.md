@@ -1,4 +1,6 @@
-# Clase
-## LND
+# formulario_J_A_Y
+> [!NOTE]
+> Este formulario esta hecho por Alejandro García, Nahuel, Derek
 
-### UT1
+> [!IMPORTANT]
+> Enlace deformulario. [(👉ﾟヮﾟ)👉Click aquí](https://alecrack640.github.io/formulario_J_A_Y/formulario_entrenamiento.html)

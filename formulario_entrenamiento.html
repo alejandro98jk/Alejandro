@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Registro de Entrenamiento</title>
+</head>
+<body>
+  <h1>Registro de Entrenamiento en Centro Deportivo</h1>
+  <form action="https://webhook.site/4eb72c14-9d8e-4b14-9f92-754756ef014b" method="POST" enctype="multipart/form-data">
+    
+    <!-- Campo oculto con tu nombre y apellidos -->
+    <input type="hidden" name="alumno" value="Alejandro García, Nahuel, Derek">
+
+    <!-- Fieldset: Datos del usuario -->
+    <fieldset>
+      <legend>Datos Usuario</legend>
+
+      <!-- DNI -->
+      <label for="dni">DNI (*)</label>
+      <input type="text" id="dni" name="dni" maxlength="9" required>
+        <br><br>
+      <!-- Nombre y apellidos -->
+      <label for="nombre">Nombre y Apellidos (*)</label>
+      <input type="text" id="nombre" name="nombre" maxlength="100" required>
+        <br><br>
+      <!-- Contraseña -->
+      <label for="password">Contraseña (*)</label>
+      <input type="password" id="password" name="password" minlength="5" maxlength="10" required>
+      <br><br>
+      <!-- Teléfono -->
+      <label for="telefono">Teléfono (*)</label>
+        <span>+34</span>
+        <input type="text" id="telefono" name="telefono" pattern="928 \d{2} \d{2} \d{2}" placeholder="928-XX-XX-XX" value="928 " required />
+        <br><br>
+      <!-- Email -->
+      <label for="email">Email (*)</label>
+      <input type="email" id="email" name="email" pattern="[a-zA-Z0-9._%+-]+@gmail\.com" required>
+    </fieldset>
+
+    <!-- Fieldset: Datos de entrenamiento -->
+    <fieldset>
+      <legend>Datos Entrenamiento</legend>
+
+      <!-- Fecha del entrenamiento -->
+      <label for="fecha">Fecha del Entrenamiento (*)</label>
+      <input type="date" id="fecha" name="fecha" max="2024-12-31" min="2024-01-01" required>
+        <div>
+            <!-- Imágenes del entrenamiento -->
+            <label for="imagenes">Imágenes del Entrenamiento (JPG)👉</label>
+            <input type="file" id="imagenes" name="imagenes[]" accept=".jpg" multiple>
+        </div>
+        <div>
+            <!-- Rutina de ejercicios -->
+            <label for="rutina">Rutina de Ejercicios (PDF)👉</label>
+            <input type="file" id="rutina" name="rutina[]" accept=".pdf" multiple>
+            </div>
+      <!-- Salas utilizadas con opciones -->
+      
+      <legend>Salas Utilizadas (*)</legend>
+      <label>
+        <input type="checkbox" name="Salas[]" value="pista_exterior" required> Pista Exterior
+      </label><br>
+      <label>
+        <input type="checkbox" name="Salas[]" value="piscina"> Piscina
+      </label><br>
+      <label>
+        <input type="checkbox" name="Salas[]" value="sala_musculacion"> Sala de Musculación
+      </label><br>
+      <label>
+        <input type="checkbox" name="Salas[]" value="sala_spinning"> Sala de Spinning
+      </label><br>
+      <label>
+        <input type="checkbox" name="Salas[]" value="sala_polivalente"> Sala Polivalente
+      </label><br>
+      <label>
+        <input type="checkbox" name="Salas[]" value="zona_cardio"> Zona Cardio
+      </label><br>
+    
+    </fieldset>
+    <!-- Fieldset: Rendimiento del entrenamiento -->
+    <fieldset>
+      <legend>Rendimiento del Entrenamiento</legend>
+
+      <!-- Cantidad de agua consumida -->
+      <label for="Agua">Cantidad de Agua Consumida (L)</label>
+      <input type="number" id="Agua" name="Agua" min="0" step="0.5" value="0">
+        <br>
+      <!-- Valoración del nivel de esfuerzo -->
+      <label for="Esfuerzo">Valoración del Nivel de Esfuerzo (*)</label>
+        <input type="range" id="Esfuerzo" name="Esfuerzo" min="1" max="10" value="1" oninput="valoresfuerzo.value = this.value" required> <output id="valoresfuerzo">1</output>
+        <br>
+      <!-- Tipo de entrenamiento -->
+      <label>Tipo de Entrenamiento (*)</label>
+      <input type="radio" id="Aerobico" name="Tipo_entrenamiento" value="Aerobico" required>
+      <label for="Aerobico">Aeróbico</label>
+      <input type="radio" id="Anaerobico" name="Tipo_entrenamiento" value="Anaerobico" required>
+      <label for="Anaerobico">Anaeróbico</label>
+    </fieldset>
+
+    <!-- Botones de envío y reset -->
+    <button type="submit">Registrar Entrenamiento</button>
+    <button type="reset">Limpiar Campos</button>
+
+  </form>
+</body>
+</html>
